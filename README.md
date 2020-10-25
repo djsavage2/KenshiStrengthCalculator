@@ -11,5 +11,5 @@ Allows a user to calculate the minimum Strength level needed to wield certain we
     ```
 1. Run the command:
     ```go
-    go run KenshiWeaponWeightCalc.go
+    $ go run KenshiWeaponWeightCalc.go
     ```
