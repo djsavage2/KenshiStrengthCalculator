@@ -13,3 +13,8 @@ Allows a user to calculate the minimum Strength level needed to wield certain we
     ```go
     $ go run KenshiWeaponWeightCalc.go
     ```
+
+## Development Roadmap
+
+- Add GUI
+- Add Weapon objects with associated stats pre-loaded
