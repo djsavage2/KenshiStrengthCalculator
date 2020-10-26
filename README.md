@@ -13,14 +13,14 @@ See the [community wiki](https://kenshi.fandom.com/wiki/Weapons) for weapon stat
     ```
 1. Run the command:
     ```go
-    $ go run KenshiWeaponWeightCalc.go
+    $ go run kenshi_strength_calc.go
     ```
 
 ## Testing
 
 - Run the following command in the repo folder:
     ```go
-    $ go test KenshiWeaponWeightCalc.go
+    $ go test
     ```
 
 ## Development Roadmap
