@@ -2,6 +2,8 @@
 
 Allows a user to calculate the minimum Strength level needed to wield certain weapons in the popular RPG [Kenshi](https://lofigames.com/).
 
+See the [community wiki](https://kenshi.fandom.com/wiki/Weapons) for weapon statistics and test data.
+
 ## Running the Calculator
 
 1. Clone this repo
@@ -12,6 +14,13 @@ Allows a user to calculate the minimum Strength level needed to wield certain we
 1. Run the command:
     ```go
     $ go run KenshiWeaponWeightCalc.go
+    ```
+
+## Testing
+
+- Run the following command in the repo folder:
+    ```go
+    $ go test KenshiWeaponWeightCalc.go
     ```
 
 ## Development Roadmap
